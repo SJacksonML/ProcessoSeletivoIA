@@ -117,7 +117,7 @@ Este repositório inclui um **Dev Container** para facilitar a criação de um a
 ➡️ As dependências serão instaladas automaticamente.
 
 
-#### Opção B - via browser
+#### Opção C - via browser
 Você também pode abrir o container via github codespace
 
 1. Clique em **<> Code**
